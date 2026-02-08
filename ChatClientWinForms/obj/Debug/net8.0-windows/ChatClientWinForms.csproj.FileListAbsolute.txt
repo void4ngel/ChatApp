@@ -1,0 +1,17 @@
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\bin\Debug\net8.0-windows\ChatClientWinForms.exe
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\bin\Debug\net8.0-windows\ChatClientWinForms.deps.json
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\bin\Debug\net8.0-windows\ChatClientWinForms.runtimeconfig.json
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\bin\Debug\net8.0-windows\ChatClientWinForms.dll
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\bin\Debug\net8.0-windows\ChatClientWinForms.pdb
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.ChatForm.resources
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.LoginForm.resources
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.csproj.GenerateResource.cache
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.AssemblyInfoInputs.cache
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.AssemblyInfo.cs
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.dll
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\refint\ChatClientWinForms.dll
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.pdb
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ChatClientWinForms.genruntimeconfig.cache
+C:\Users\Georgiy Garistov\source\repos\ChatClientWinForms\obj\Debug\net8.0-windows\ref\ChatClientWinForms.dll
